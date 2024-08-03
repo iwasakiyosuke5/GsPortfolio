@@ -60,7 +60,7 @@
                     <br>名前: katyou2 , パスワード: testtest      でログインできます。
                     <br>
                     <br>主な使用技術は
-                    <br>　PHP / Laravel / TailwindowCSS / JavaScript / MySQL
+                    <br>　PHP / Laravel10 / TailwindowCSS / JavaScript / MySQL
                     <br>　Chart.js / GeminiAPI
                     <br>　Carbon(日付関係) / PHPUnit / Docker
                     <br>Spechal Thanks 2 @Gensan, @Nakaji, @Izumi
