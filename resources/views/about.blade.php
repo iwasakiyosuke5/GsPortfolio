@@ -30,7 +30,7 @@
                 <li>好きな飲食：<a href="https://www.instagram.com/hanaabi_official/">花陽浴🔎</a>、<a href="https://www.sapporobeer.jp/lager/">サッポロラガー🔎</a>、<a href="http://ieke1.com/">吉村家🔎</a>、砂肝、ピーナッツ</li>
                 <li>趣味：登山、昆虫採集、スニーカー集め、ガンプラ作り（最近は塗装）、擬似餌釣り</li>
                 <li>好きなモノ：Raf Simons、大排気量のCセグメント、山道、ニーア</li>
-                <li>お仕事：大学院卒業(2010)→有機合成屋さん（2024年）→社内DX推進部(2024~)・内製開発 <span>(現在GsAcademyにて修行中)</span></li>
+                <li>お仕事：大学院卒業(2010)→有機合成屋さん（2024年）→社内DX推進部(2024~)・内製開発 <span>(現在GsAcademyにて通学・修行中)</span></li>
             </ul>
         </article>
     </main>
