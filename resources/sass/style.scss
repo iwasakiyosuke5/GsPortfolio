@@ -107,6 +107,10 @@ h3 {font-weight: 600px;}
             flex-direction: column;
             gap: 10px;
             margin-bottom: 25px;
+            span {
+                color: red;
+                font-size: 1.4rem; 
+            }
 
             p {
                 font-size: 0.90rem;

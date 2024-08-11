@@ -15,7 +15,7 @@
     <article>
 
         <section>
-            <h3>Analysis DB (TokyoLab17 php選手権1位)</h3>
+            <h3>Analysis DB (TokyoLab17 php選手権<span class="red-size">1位</span>)</h3>
             <hr width="200">
             <ul>
                 <li>
@@ -42,7 +42,7 @@
         </section>
 
         <section>
-            <h3>KaizenEx (TokyoFukuoka合同Team開発2位)</h3>
+            <h3>KaizenEx (TokyoFukuoka合同Team開発<span class="red-size">2位</span>)</h3>
             <hr width="200">
             <ul>
                 <li>
@@ -69,7 +69,7 @@
         </section>
 
         <section>
-            <h3>BassMemo (TokyoLab17 javaScript選手権1位)</h3>
+            <h3>BassMemo (TokyoLab17 javaScript選手権<span class="red-size">1位</span>)</h3>
             <hr width="200">
             <ul>
                 <li>
