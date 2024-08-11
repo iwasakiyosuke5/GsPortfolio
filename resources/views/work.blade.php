@@ -36,7 +36,7 @@
                     <br>主な使用技術は
                     <br>　PHP / TailwindowCSS / JavaScript / MySQL
                     <br>　smalot/PdfParser / composer
-                    <br>PdfParserは、フォント依存性が高いようで、結局pdfデータのフォーマットを順守する必要あり。OCRとかも複合できるとより幅が広がるかも。<a href="https://basic.dance/article/47/" class="text-red">『Pythonライブラリ「PDFMiner.six」🔍』</a>で対応をした方が良さそう。
+                    <br>PdfParserは、フォント依存性が高いようで、結局pdfデータのフォーマットを順守する必要あり。OCRとかも複合できるとより幅が広がるかも。<a href="https://basic.dance/article/47/" class="text-red">『Pythonライブラリ🔍』</a>で対応をした方が良さそう。
                 </p></li>
             </ul>
         </section>
