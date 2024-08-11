@@ -69,7 +69,7 @@
         </section>
 
         <section>
-            <h3>BassMemo (TokyoLab17 javaScript選手権<span class="red-size">1位</span>)</h3>
+            <h3>BassMemo (TokyoLab17 javaScript選手権<span class="red-size">3位</span>)</h3>
             <hr width="200">
             <ul>
                 <li>
